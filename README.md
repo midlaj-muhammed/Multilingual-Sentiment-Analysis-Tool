@@ -7,6 +7,8 @@ A comprehensive sentiment analysis tool that can analyze sentiment in user revie
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-red.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+## 🚀 **[Try the Live Demo](https://multilingual-sentiment-analysis.streamlit.app/)**
+
 ## ✨ Features
 
 - **🌐 Multilingual Support**: Supports 10+ major languages with automatic detection
@@ -78,6 +80,8 @@ docker run -p 8000:8000 sentiment-analysis
 streamlit run app/frontend/streamlit_app.py
 # Open http://localhost:8501
 ```
+
+**🌐 Or try the live demo**: https://multilingual-sentiment-analysis.streamlit.app/
 
 ### API Server
 ```bash
@@ -232,6 +236,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [FastAPI](https://fastapi.tiangolo.com/) for the web framework
 - [Streamlit](https://streamlit.io/) for the web interface
 - [LangDetect](https://github.com/Mimino666/langdetect) for language detection
+
+## 🌐 Links
+
+- 🚀 **Live Demo**: https://multilingual-sentiment-analysis.streamlit.app/
+- 📖 **Repository**: https://github.com/midlaj-muhammed/Multilingual-Sentiment-Analysis-Tool
+- 📚 **Documentation**: [API Docs](docs/API_DOCUMENTATION.md) | [Usage Examples](docs/USAGE_EXAMPLES.md) | [Deployment Guide](docs/DEPLOYMENT.md)
 
 ## 📞 Support
 

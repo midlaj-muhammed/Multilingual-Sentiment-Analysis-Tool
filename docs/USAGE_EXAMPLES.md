@@ -2,7 +2,8 @@
 
 This document provides comprehensive examples of how to use the Multilingual Sentiment Analysis Tool.
 
-**Repository**: https://github.com/midlaj-muhammed/Multilingual-Sentiment-Analysis-Tool
+**🚀 Live Demo**: https://multilingual-sentiment-analysis.streamlit.app/
+**📖 Repository**: https://github.com/midlaj-muhammed/Multilingual-Sentiment-Analysis-Tool
 
 ## Table of Contents
 

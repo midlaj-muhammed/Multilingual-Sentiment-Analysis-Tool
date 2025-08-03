@@ -1,6 +1,7 @@
 # API Documentation
 
-**Repository**: https://github.com/midlaj-muhammed/Multilingual-Sentiment-Analysis-Tool
+**🚀 Live Demo**: https://multilingual-sentiment-analysis.streamlit.app/
+**📖 Repository**: https://github.com/midlaj-muhammed/Multilingual-Sentiment-Analysis-Tool
 
 ## Overview
 

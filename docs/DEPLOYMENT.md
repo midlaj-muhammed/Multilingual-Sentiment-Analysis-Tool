@@ -1,6 +1,7 @@
 # Deployment Guide
 
-**Repository**: https://github.com/midlaj-muhammed/Multilingual-Sentiment-Analysis-Tool
+**🚀 Live Demo**: https://multilingual-sentiment-analysis.streamlit.app/
+**📖 Repository**: https://github.com/midlaj-muhammed/Multilingual-Sentiment-Analysis-Tool
 
 This guide covers various deployment options for the Multilingual Sentiment Analysis Tool.
 

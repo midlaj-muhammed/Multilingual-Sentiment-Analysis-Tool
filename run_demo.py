@@ -247,10 +247,11 @@ def main():
         print_separator("Demo Completed Successfully!")
         print("✅ All demos completed successfully!")
         print("\nNext steps:")
-        print("1. Start the API server: uvicorn app.api.main:app --reload")
-        print("2. Start the web interface: streamlit run app/frontend/streamlit_app.py")
-        print("3. Check the results in the 'results/' directory")
-        print("4. Explore the API documentation at http://localhost:8000/docs")
+        print("1. 🌐 Try the live demo: https://multilingual-sentiment-analysis.streamlit.app/")
+        print("2. Start the API server: uvicorn app.api.main:app --reload")
+        print("3. Start the web interface: streamlit run app/frontend/streamlit_app.py")
+        print("4. Check the results in the 'results/' directory")
+        print("5. Explore the API documentation at http://localhost:8000/docs")
         
     except KeyboardInterrupt:
         print("\n\n⚠️  Demo interrupted by user")
